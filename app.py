@@ -1,5 +1,5 @@
 from flask import Flask
 
 app = Flask()
-def a():
+def a(a,b,):
     pass
